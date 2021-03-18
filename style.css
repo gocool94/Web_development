@@ -1,0 +1,48 @@
+/*Selector {
+
+	property : value;
+
+}*/
+
+h2 , p {
+	text-align: center;
+	border: 5px solid orange;
+	cursor: pointer;
+	
+	text-transform: lowercase;
+	line-height: 30px;
+	font-style: italic;
+	
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg")
+}
+
+li {
+
+	list-style: none;
+	display: inline-block;
+	border:5px dashed black;
+	padding: 10px;
+	margin: 5px;
+}
+
+.webtext {
+	border: 5px dashed green;
+}
+
+.webtext2 {
+	border: 5px dashed blue;
+}
+
+.webtext3 {
+	border: 5px dashed yellow;
+}
+.webtext4 {
+	border: 5px dashed orange;
+}
+.webtext5 {
+	border: 5px dashed #AA7635;
+}
