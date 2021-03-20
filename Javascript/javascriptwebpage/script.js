@@ -1,1 +1,6 @@
-alert("Mass na neenga")
+function multiply(a,b){
+	return a * b;
+	
+}
+
+multiply(1,3);
