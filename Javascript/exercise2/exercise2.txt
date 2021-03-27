@@ -10,7 +10,7 @@
 // create a variable that holds the answer // of "firstName" + " " + "lastName"
 
 // Evaluate this question. What is a + b?
-var a = 34;
+var a = 34;ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 var b = 21;
 a = 2;
 a + b // what is the answer here?
